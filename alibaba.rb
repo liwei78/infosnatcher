@@ -8,15 +8,14 @@ Encoding.default_external = Encoding::UTF_8
 Encoding.default_internal = Encoding::UTF_8
 
 urls = []
-urls << 'http://search.china.alibaba.com/company/company_search.htm?showStyle=popular&keywords=%CD%F8%D5%BE%D6%C6%D7%F7&province=%C1%C9%C4%FE&pageSize=30&filt=y&n=y&beginPage=1'
+urls << 'http://search.china.alibaba.com/company/-CDF8D5BED6C6D7F7.html?province=%CB%C4%B4%A8&filt=y&showStyle=popular&city='
 
 
 titles = []
 $target_urls = []
 
 
-# require './henan'
-require './henan'
+require './sichuan'
 
 
 def get_target_urls(target_urls)

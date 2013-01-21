@@ -1,0 +1,25 @@
+.alibaba.com	TRUE	/	FALSE	1388858980	h_keys	"%u7f51%u7ad9%u5236%u4f5c"
+.alibaba.com	TRUE	/	FALSE	1774008001	ali_beacon_id	119.161.165.194.1357322984462.6
+.alibaba.com	TRUE	/	FALSE	3626384462	ali_apache_id	119.161.165.194.89261722986468.4
+.alibaba.com	TRUE	/	FALSE	2145888000	cna	6ghuCSoTGUQCAcKloXek4dQ4
+china.alibaba.com	FALSE	/	FALSE	1673550163	lzpg_2706934_uv	2725602817933508284
+.alibaba.com	TRUE	/	FALSE	1388894010	ad_prefer	"2013/01/05 11:53:38"
+.alibaba.com	TRUE	/	FALSE	0	JSESSIONID	7Z966R61-9Q8COJFEL900MXR9O8MS1-BFL0C7CH-PXT71
+.alibaba.com	TRUE	/	FALSE	0	track_cookie	n&null
+.alibaba.com	TRUE	/	FALSE	0	__cn_logon__	true
+.alibaba.com	TRUE	/	FALSE	0	__cn_logon_id__	guxing203
+.alibaba.com	TRUE	/	FALSE	1458755818	ali_apache_track	"c_ms=1|c_mt=3|c_mid=guxing203|c_lid=guxing203"
+.alibaba.com	TRUE	/	FALSE	0	ali_apache_tracktmp	"c_w_signed=Y"
+.alibaba.com	TRUE	/	FALSE	1390291819	last_mid	guxing203
+.alibaba.com	TRUE	/	FALSE	1390291819	_cn_slid_	53Y1WdfyKb
+.alibaba.com	TRUE	/	FALSE	0	ali_apache_sid	199.27.105.142.09671655616248.1|1358757623
+.alibaba.com	TRUE	/	FALSE	1674115828	ali_ab	119.161.165.194.1357322980843.9
+.alibaba.com	TRUE	/	FALSE	2524579200	alicnweb	touch_tb_at%3D1358755631849%7Cshow_inter_tips%3Dfalse%7Clastlogonid%3Dguxing203
+.myhome.china.alibaba.com	TRUE	/	FALSE	0	_myhome_cookie_0	YiPAjizVWYteG0SOofrU3iPvvPRqkjthZ0HtYlyH7uWtOXNeAYWH0gr5XnLKyG6FStZpEG%2BYwkNJXLEDj9WaTKAhaDwTmYPu4xNmeXyli2%2F8XPzDPinx8O3yPYOlXeBPWXMtpZV2kJ8gnJfvwEA7iSMDSR7525BgmSGlQDGsKAYrY%2BiL1jkvGA%3D%3D
+.work.china.alibaba.com	TRUE	/	FALSE	1359015259	_next_time0	"YiPAjizVWYteG0SOofrU3iPvvPRqkjthZ0HtYlyH7uWtOXNeAYWH0gr5XnLKyG6FStZpEG%2BYwkNJXLEDj9WaTKAhaDwTmYPu%2Fe6QBgMkxAL7dWhiAoIe8824WDnr3LaceInvTbf9VD%2FpQpDnNq0vrPJpm6fh3vy5MmNbIEDJJyE%3D"
+.alibaba.com	TRUE	/	FALSE	0	cn_tmp	"Z28mC+GqtZ3dE1H3cPsOyXBFa/MikedtgoeKPMw0P8zAZPYWH0eoHuEHuREFM55z1WdtjLwITdv0DUkQXGh1v2S/0Xcu1slYy8SP0TzEwMu5jgFIkr8GwYbXcdHSU8QS/IIFMD56Wi4NkvT1YIWs2IfkwxbgOPlP0i0e+FjcI/KP7FtmzEWasG1dDJLq7Ppg1x5YpZhRuqz0nAlEKccnc2u6ID8vauVUUOyTba5mqf8="
+.alibaba.com	TRUE	/	FALSE	0	_csrf_token	1358755820067
+.alibaba.com	TRUE	/	FALSE	1390292060	__last_loginid__	guxing203
+.acookie.alibaba.com	TRUE	/	FALSE	0	linezing_session	e81b3a352cf8e8ee06d32894_1358756061_12
+china.alibaba.com	FALSE	/	FALSE	1445156064	lzpg_2706934_ss	2821833552_1_1358756064
+.alibaba.com	TRUE	/	FALSE	0	_tmp_ck_0	"wLfARwOEMbRoa%2FhIZzbD6n01mFe6WuKqvWpogdEyqHBWHH0%2BAYUNsSWXw3bbl5uK%2BfZPrILxIbgJipw5pEQCV0Tkw0%2BdyZmfazS0zuHHef7NZrK4RypPW%2BL%2Bfsyjc%2BUQzuiCjV52dhrd7XBY%2FAB%2FIInYCuwQxT6gQnNRoRleUXWR%2BBjnwqhjkNhRkgHfv6bb5%2B4iS%2BrbaY%2FTy3rILaa0PCoGy3KxYK%2FlU7q8XhrZKiF8TXWXHRdzqiwPgKWewFnY3gy3TPPSG%2FApqfCVIlPh3f14TyA8sQfljFW6tpN36XaZy1t%2FS8xcanbUqKz8uCcdVRYe5mCWNaTCVdun%2BQAYYecgqvbPnwjFojMTe6WTj6EfdFsZRd4n%2BIceidAQTJvcTeeQ3gI5C7DqxE6Xg66AcOWB5Pw%2FxzSF197XW94WoeB9p3BWrxRJSrgSXl%2B6Pmr4apIvgRxyulEP1IYdQcNVwsUsY3p5%2FlDAAwCyDNqvsXsMtCRWw4SpVp3QRQfHHTkvKBDyoW%2BkSJ9nhgN%2BHEPHZyFAh%2FuiXrgS%2FpFswJea6bGuU2UtZgL5bmKc9Em6ZlDrWB98KtwOERM%3D"
